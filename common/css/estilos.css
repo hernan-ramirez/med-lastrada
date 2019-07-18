@@ -1,0 +1,107 @@
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #5F6A7A;
+
+	}
+	
+a:link {  
+	color: #FF0000; 
+	text-decoration: none; 
+	font-weight: bold;
+	}
+a:visited, a:link {  
+	color: #FF0000; 
+	text-decoration: none; 
+	font-weight: bold;
+	}
+		
+a:hover {  
+	color: #FF0000; 
+	text-decoration: underline; 
+	font-weight: bold;
+	}
+	
+.BigTableLeft {
+	background-color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #DEDEDE;
+	border-left-color: #DEDEDE;
+	width: 473px;
+	text-align: center;
+	vertical-align: top;
+
+}
+
+.BigTableRight {
+	background-color: #FFFFFF;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-right-style: solid;
+	border-top-color: #DEDEDE;
+	border-bottom-color: #DEDEDE;
+	border-right-color: #DEDEDE;
+	width: 273px;
+	vertical-align: top;
+	text-align: left;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+
+
+}
+.RedBar {
+	background-color: #FF0000;
+	height: 18px;
+	padding-left: 5px;
+}
+.Title {
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+}
+.RightGrayContent {
+	background-color: #F7F7F7;
+	height: 500px;
+	width: 271px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	text-align: center;
+	vertical-align: top;
+
+
+
+}
+.RightTables {
+	border: 1px solid D1D1D1;
+	width: 263px;
+	background-color: #FFFFFF;
+
+
+}
+.status {
+	background-color: F7F7F7;
+	border: 1px solid DADADA;
+	font-size: 11px;
+	padding-left: 2px;
+	padding-right: 2px;
+
+
+}
+.dashed {
+	background-image: url(../../img/dashed.gif);
+	height: 5px;
+}
+.oncetxt {
+	font-size: 11px;
+}
+.marginleft {
+	padding-left: 2px;
+	vertical-align: top;
+}

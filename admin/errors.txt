@@ -1,0 +1,89 @@
+[17-Feb-2004 17:42:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 64
+[17-Feb-2004 17:42:30] PHP Warning:  Unable to save MySQL query result in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:42:30] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:42:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 155
+[17-Feb-2004 17:42:30] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 156
+[17-Feb-2004 17:42:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:39] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:42:58] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:43:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:43:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:43:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:43:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:43:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:43:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:43:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:45:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:45:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:45:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:45:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:34] PHP Warning:  OpenDir: Invalid argument (errno 22) in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 80
+[17-Feb-2004 17:46:34] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 81
+[17-Feb-2004 17:46:34] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 87
+[17-Feb-2004 17:46:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 64
+[17-Feb-2004 17:46:35] PHP Warning:  Unable to save MySQL query result in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:35] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 155
+[17-Feb-2004 17:46:36] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 156
+[17-Feb-2004 17:46:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:39] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 64
+[17-Feb-2004 17:46:39] PHP Warning:  Unable to save MySQL query result in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:39] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:39] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 155
+[17-Feb-2004 17:46:39] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 156
+[17-Feb-2004 17:46:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 64
+[17-Feb-2004 17:46:45] PHP Warning:  Unable to save MySQL query result in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:45] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 155
+[17-Feb-2004 17:46:45] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 156
+[17-Feb-2004 17:46:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 64
+[17-Feb-2004 17:46:48] PHP Warning:  Unable to save MySQL query result in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:48] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 155
+[17-Feb-2004 17:46:48] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 156
+[17-Feb-2004 17:46:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 64
+[17-Feb-2004 17:46:50] PHP Warning:  Unable to save MySQL query result in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:50] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 144
+[17-Feb-2004 17:46:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 155
+[17-Feb-2004 17:46:50] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\vertabla.php on line 156
+[17-Feb-2004 17:46:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:46:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:47:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:47:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:47:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:47:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50
+[17-Feb-2004 17:47:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.leonardoastrada.com.ar\admin\includes\funciones.php on line 50

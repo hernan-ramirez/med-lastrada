@@ -1,0 +1,16 @@
+[13-Feb-2004 02:11:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 139
+[13-Feb-2004 02:11:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 167
+[13-Feb-2004 02:11:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 139
+[13-Feb-2004 02:11:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 167
+[13-Feb-2004 02:12:10] PHP Warning:  Failed opening 'common/acceso.inc.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 30
+[13-Feb-2004 02:13:07] PHP Warning:  Failed opening 'common/acceso.inc.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 30
+[13-Feb-2004 02:13:34] PHP Warning:  Failed opening 'common/acceso.inc.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 30
+[13-Feb-2004 02:15:26] PHP Warning:  Failed opening 'common/acceso.inc.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\common\conexion.php on line 30
+[13-Feb-2004 02:17:51] PHP Warning:  Failed opening 'abm_header.php' for inclusion (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia.inc.php on line 1
+[13-Feb-2004 02:17:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia.inc.php on line 31
+[13-Feb-2004 02:17:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia.inc.php on line 51
+[13-Feb-2004 02:17:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia.inc.php on line 53
+[13-Feb-2004 02:18:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\trivia_ganadores.php on line 20
+[13-Feb-2004 02:19:47] PHP Warning:  Cannot send session cache limiter - headers already sent (output started at c:\phpdev5\www\public\admin.sportsya.com\especiales\verificador.php:10) in c:\phpdev5\www\public\admin.sportsya.com\common\acceso.inc.php on line 2
+[17-Feb-2004 15:07:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 139
+[17-Feb-2004 15:07:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\admin.sportsya.com\especiales\futbol_fechas.php on line 167
